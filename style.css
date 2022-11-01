@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+.jumbotron {
+  padding-top: 4cm;
+  background-color: #ffffff;
+}
+.jumbotron img {
+  border-radius: 50%;
+}
+.jumbotron p {
+  text-align: center;
+  font-size: 35px;
+  font-family: "Times New Roman";
+  line-height: 1cm;
+  padding-top: 1cm;
+}
+#contact {
+  background-color: #ffffff;
+  overflow-y: hidden;
+}
+#Biodata {
+  background-color: #262626;
+  font-family: monospace;
+}
+#Biodata p {
+  font-size: 20px;
+  padding-top: 1cm;
+  color: #ffffff;
+}
+#Biodata img {
+  border-radius: 60%;
+}
+nav a {
+  font-size: 15px;
+}
+nav b {
+  font-size: 25px;
+  padding-left: 1cm;
+}
+#contact {
+  background-color: #262626;
+}
+#contact h2 {
+  color: #ffffff;
+}
+#Footer p {
+  text-align: center;
+  color: #ffffff;
+  background-color: #000000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#skil {
+  background-color: #f3f4f5;
+}
+.card-body {
+  font-size: 18px;
+  background-color: #262626;
+  color: #ffffff;
+  height: 8cm;
+}
+.social-media-icon {
+  padding: 5px 5px 10px 5px;
+  background: #262626;
+  color: #fff;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+a.social-media-icon:hover {
+  background: #fff !important;
+  color: rgb(0, 0, 0) !important;
+}

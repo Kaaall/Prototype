@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+#projects {
+  padding-top: 3cm;
+  background-color: #f3f4f5;
+  color: #000000;
+}
+#projects h2 {
+  color: #000000;
+}
+nav a {
+  font-size: 15px;
+}
+nav b {
+  font-size: 25px;
+  padding-left: 1cm;
+}
+#Footer p {
+  text-align: center;
+  color: #ffffff;
+  background-color: #000000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#contact {
+  background-color: #262626;
+}
+#contact h2 {
+  color: #ffffff;
+}
+#contact a {
+  width: 500px;
+}
+.social-media-icon {
+  padding: 5px 5px 10px 5px;
+  background: #262626;
+  color: #fff;
+  margin: 10px;
+  border-radius: 6px;
+}
+a.social-media-icon:hover {
+  background: #fff !important;
+  color: rgb(255, 248, 248) !important;
+}
+.col h2 {
+  margin-bottom: 1cm;
+}
